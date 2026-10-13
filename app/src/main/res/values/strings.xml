@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterMike</string>
+    <string name="app_tagline">Tu espacio para crear</string>
+    <string name="welcome_title">Todo listo para empezar</string>
+    <string name="welcome_message">La aplicación ya está configurada para compilarse como APK. Añade aquí las funciones de MasterMike.</string>
+    <string name="start_button">Comenzar</string>
+    <string name="start_message">MasterMike está listo.</string>
+    <string name="build_label">Versión 1.0.0</string>
+</resources>
