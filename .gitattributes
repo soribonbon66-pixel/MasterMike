@@ -1,0 +1,3 @@
+# Keep launcher scripts portable while preserving Windows batch line endings.
+*.sh text eol=lf
+*.bat text eol=crlf
