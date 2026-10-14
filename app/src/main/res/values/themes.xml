@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.MasterMike" parent="android:style/Theme.Material.NoActionBar">
-        <item name="android:fontFamily">sans</item>
-        <item name="android:windowActionModeOverlay">true</item>
-        <item name="android:colorAccent">@color/accent</item>
-        <item name="android:windowBackground">@color/background</item>
-        <item name="android:statusBarColor">@color/background</item>
-        <item name="android:navigationBarColor">@color/background</item>
-        <item name="android:windowLightStatusBar">false</item>
+    <style name="Theme.MichelMasteringPRO" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF1A1A2E</item>
+        <item name="android:navigationBarColor">#FF1A1A2E</item>
     </style>
 </resources>

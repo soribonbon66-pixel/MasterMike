@@ -1,3 +1,0 @@
-# Keep launcher scripts portable.
-*.sh text eol=lf
-*.bat -text

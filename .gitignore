@@ -1,23 +1,18 @@
-# Gradle
-.gradle/
-**/build/
-
-# Local Android SDK configuration
-local.properties
-
-# Android Studio / IntelliJ
-.idea/
 *.iml
-*.ipr
-*.iws
-
-# OS files
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
 .DS_Store
-Thumbs.db
-
-# Native build outputs
-.externalNativeBuild/
-.cxx/
-
-# Captures
-captures/
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+app/build/
